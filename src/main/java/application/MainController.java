@@ -29,4 +29,10 @@ public class MainController {
         ProductReleaseList productReleaseList = restTemplate.getForObject("https://systembevakningsagenten.se/api/json/2.0/newProducts.json", ProductReleaseList.class);
         return new ObjectMapper().writeValueAsString(productReleaseList);
     }
+
+    @RequestMapping("/uppgift/1")
+    public Object uppgift1() {
+//        RestTemplate restTemplate = new
+return null;
+    }
 }

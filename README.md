@@ -7,8 +7,9 @@
 ## Gruppindelning
 ## Få upp miljöer
 * ```git clone https://github.com/roeri/code-night-2019```
-* ```gradlew build  --continuous```
-* ```gradle bootRun```
+* ```cd code-night-2019```
+* ```./gradlew build  --continuous```
+* ```./gradlew bootRun```
 
 ## Ölhackning
 
