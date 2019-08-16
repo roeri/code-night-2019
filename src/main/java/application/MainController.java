@@ -2,6 +2,7 @@ package application;
 
 import beer.ProductRelease;
 import beer.ProductReleaseList;
+import beer.StoreInventory;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -34,6 +35,7 @@ public class MainController {
 
     @RequestMapping("/uppgift/1")
     public Object uppgift1() {
-        return restTemplate.getForObject("https://systembevakningsagenten.se/api/json/1.0/inventoryForStore.json?id=1337", Map.class);
+        StoreInventory storeInventory = restTemplate.getForObject("https://systembevakningsagenten.se/api/json/1.0/inventoryForStore.json?id=1337", StoreInventory.class);
+        return storeInventory;
     }
 }
