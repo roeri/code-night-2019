@@ -11,6 +11,9 @@
 * ```./gradlew build  --continuous```
 * ```./gradlew bootRun```
 
+## Tips
+* Ställa en fråga mot lokala APIet: ```curl localhost:8080/uppgift/1```
+
 ## Ölhackning
 
 ### Uppgift 1
