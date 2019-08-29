@@ -17,12 +17,18 @@
 ## Ölhackning
 
 ### Uppgift 1
-Hur många ölsorter finns i butiken med id 1337 (Hammarby Sjöstad, Lugnets Allé 26-28)?
+Hur många ölsorter finns i butiken Hammarby Sjöstad, Lugnets Allé 26-28 (id 1337)?
 
 ### Uppgift 2
-Vilket land har flest ölsorter representerade i butiken med id 1337?
+Vilket land har flest ölsorter representerade i samma butik?
 
 ### Uppgift 3
-Vilken ölsort har bäst APK-värde i butiken med id 1337 av de öl som lanserats i år?
+Vilken ölsort har bäst APK-värde i butiken av de öl som lanserats i år?
+
+### Uppgift 4
+Ni vill ta reda på om APK-värde är något att gå efter när man köper öl, så ni ska ta fram ett provsmaknings-kit från en butik, med de 3 öl som har bäst APK-värde och de 3 som har sämst APK-värde. Vad kostar kitet? Och vilka öl blev det?
+
+Tilläggsfråga:
+Hur många av den billigaste ölen från samma butik hade man kunnat köpa med de pengarna?
 
 ## Diskussion/wrap up
