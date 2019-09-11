@@ -3,7 +3,7 @@
 
 # Schema
 
-## Kort genomgånng
+## Kort genomgång
 ## Gruppindelning
 ## Få upp miljöer
 * ```git clone https://github.com/roeri/code-night-2019```
