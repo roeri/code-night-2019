@@ -4,7 +4,11 @@
 # Schema
 
 ## Kort genomgång
+* Visa APIet
+
 ## Gruppindelning
+* Gärna i par, en som är "van" vid Streams och en till.
+
 ## Få upp miljöer
 * ```git clone https://github.com/roeri/code-night-2019```
 * ```cd code-night-2019```
