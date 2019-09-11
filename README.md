@@ -14,6 +14,22 @@
 ## Tips
 * Ställa en fråga mot lokala APIet: ```curl localhost:8080/uppgift/1```
 
+## Resurser
+* Hur collectors funkar: https://www.baeldung.com/java-8-collectors
+* Vanliga operationer (googla eller fråga om du behöver hjälp att använda dem):
+  - filter()
+  - map()
+  - flatMap()
+  - max()
+  - min()
+  - peek()
+  - skip()
+  - limit()
+  - findFirst()
+  - reduce()
+  - collect()
+  - forEach()
+
 ## Ölhackning
 
 ### Uppgift 1
